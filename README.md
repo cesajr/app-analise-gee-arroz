@@ -89,3 +89,12 @@ Após o Streamlit Cloud processar a aplicação, você receberá um link único 
 * Escolha o arquivo app.py como o ponto de entrada para o aplicativo.
 * Clique em "Deploy" para iniciar o aplicativo.
 * Após alguns minutos, o Streamlit Cloud criará e hospedará o seu aplicativo. O link gerado será fornecido, e você poderá compartilhá-lo com outras pessoas para acessarem a aplicação interativa.
+
+### Resultado
+
+https://github.com/user-attachments/assets/7b5cfae9-c41b-4f41-abaa-327c2aea74bb
+
+### Link da aplicação pronta para uso
+```bash
+https://analytic-gee-arroz.streamlit.app/
+```
