@@ -98,3 +98,11 @@ https://github.com/user-attachments/assets/7b5cfae9-c41b-4f41-abaa-327c2aea74bb
 ```bash
 https://analytic-gee-arroz.streamlit.app/
 ```
+Contribuições são bem-vindas! Se você deseja contribuir, siga estas etapas:
+
+Fork este repositório.
+Crie uma nova branch (git checkout -b feature/nome-da-sua-feature).
+Faça suas alterações e commit (git commit -m 'Adiciona nova funcionalidade').
+Envie para o repositório remoto (git push origin feature/nome-da-sua-feature).
+Abra um Pull Request.
+Licença Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
