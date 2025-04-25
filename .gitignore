@@ -1,0 +1,9 @@
+# Arquivos e pastas a serem ignorados
+*.log
+*.env
+node_modules/
+*.pyc
+*.swp
+*.bak
+credentials.json
+.key.pem
